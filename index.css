@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    background-color: black;
+}
+.slider{
+    width: 85%;
+    height: auto;
+    margin: auto;
+}
+.album{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin: 10px 0px;
+}
+.container{
+    width: 98%;
+    height: auto;
+    margin: auto;
+}
+.footer_ul li{
+    position: relative;
+    left: -39px;
+    top: -15px;
+    list-style: none;
+    margin: 9px;
+}
+
+.contact_icon a{
+    margin: 18px;
+}
